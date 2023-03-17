@@ -37,7 +37,7 @@
 >+ The output is numbered lines, showing: Time-in, Time-out, Difference (Overtime or under), Modifiers.
 
 ---
-#### 2. Program Flow
+#### 3. Program Flow
 1. Input Time-in
 2. Input Time-out
 3. Select Modifiers applicable
