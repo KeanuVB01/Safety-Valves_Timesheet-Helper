@@ -1,6 +1,11 @@
 # Safety-Valves_Timesheet-Helper
 ---
 
+![JVB11](https://user-images.githubusercontent.com/37045243/225833624-a0b63bda-49a8-4ec4-8a02-323018ff75c7.png)
+
+
+---
+
 ### Table of Contents
 #### 1. Assumptions
 #### 2. Features
@@ -38,6 +43,9 @@
 
 ---
 #### 3. Program Flow
+
+![SV_Program](https://user-images.githubusercontent.com/37045243/225833189-d195313b-fa5d-448e-b981-aca041eccc06.gif)
+
 1. Input Time-in
 2. Input Time-out
 3. Select Modifiers applicable
