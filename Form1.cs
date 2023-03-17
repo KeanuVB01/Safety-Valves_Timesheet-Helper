@@ -137,7 +137,22 @@ namespace JVBTimeApp
             }
             else
             {
-                 return (date1.ToString("HH:mm") + "-" + date2.ToString("HH:mm") + "   Difference = " + ts.Hours + " : " + ts.Minutes + modifiers);
+                modifiers = modifiers + " \t+Friday";
+                if (ts.Hours - 5 >= 0)
+                {
+                    return (date1.ToString("HH:mm") + "-" + date2.ToString("HH:mm") + "   Difference = + " + (ts.Hours - 5) + " : " + ts.Minutes + modifiers);
+                }
+                else
+                {
+                    //Get variable with 5 hours
+                    DateTime lunch1 = new DateTime(2022, 5, 5, 8, 00, 0);
+                    DateTime lunch2 = new DateTime(2022, 5, 5, 13, 00, 0);
+                    TimeSpan lunchdiff = lunch2 - lunch1;
+
+                    //Subtract ts from the 5 hours to get the difference
+                    ts = lunchdiff.Subtract(ts);
+                    return (date1.ToString("HH:mm") + "-" + date2.ToString("HH:mm") + "   Difference = - " + ts.Hours + " : " + ts.Minutes + modifiers);
+                };
             }
             
             
@@ -164,6 +179,19 @@ namespace JVBTimeApp
             if (Convert.ToInt32(e.KeyChar) == 13)
             {
                 btnCalc_Click(sender, e);
+            }
+        }
+
+        private void cbxFriday_CheckedChanged(object sender, EventArgs e)
+        {
+            if (cbxFriday.Checked == true)
+            {
+                cbxLunch.Checked = false;
+                cbxLunch.Enabled = false;
+            }
+            else
+            {
+                cbxLunch.Enabled = true;
             }
         }
     }

@@ -20,3 +20,14 @@ C:\Users\keanu\OneDrive\Documents\JVB\Hour Program\JVBTimeApp\obj\Debug\JVBTimeA
 C:\Users\keanu\OneDrive\Documents\JVB\Hour Program\JVBTimeApp\obj\Debug\JVBTimeApp.csproj.CoreCompileInputs.cache
 C:\Users\keanu\OneDrive\Documents\JVB\Hour Program\JVBTimeApp\obj\Debug\JVBTimeApp.exe
 C:\Users\keanu\OneDrive\Documents\JVB\Hour Program\JVBTimeApp\obj\Debug\JVBTimeApp.pdb
+D:\BC\3rd Year\Portfolio\JVBTimeApp\Safety-Valves_Timesheet-Helper\bin\Debug\JVBTimeApp.exe.config
+D:\BC\3rd Year\Portfolio\JVBTimeApp\Safety-Valves_Timesheet-Helper\bin\Debug\JVBTimeApp.exe
+D:\BC\3rd Year\Portfolio\JVBTimeApp\Safety-Valves_Timesheet-Helper\bin\Debug\JVBTimeApp.pdb
+D:\BC\3rd Year\Portfolio\JVBTimeApp\Safety-Valves_Timesheet-Helper\obj\Debug\JVBTimeApp.csproj.AssemblyReference.cache
+D:\BC\3rd Year\Portfolio\JVBTimeApp\Safety-Valves_Timesheet-Helper\obj\Debug\JVBTimeApp.csproj.SuggestedBindingRedirects.cache
+D:\BC\3rd Year\Portfolio\JVBTimeApp\Safety-Valves_Timesheet-Helper\obj\Debug\JVBTimeApp.Form1.resources
+D:\BC\3rd Year\Portfolio\JVBTimeApp\Safety-Valves_Timesheet-Helper\obj\Debug\JVBTimeApp.Properties.Resources.resources
+D:\BC\3rd Year\Portfolio\JVBTimeApp\Safety-Valves_Timesheet-Helper\obj\Debug\JVBTimeApp.csproj.GenerateResource.cache
+D:\BC\3rd Year\Portfolio\JVBTimeApp\Safety-Valves_Timesheet-Helper\obj\Debug\JVBTimeApp.csproj.CoreCompileInputs.cache
+D:\BC\3rd Year\Portfolio\JVBTimeApp\Safety-Valves_Timesheet-Helper\obj\Debug\JVBTimeApp.exe
+D:\BC\3rd Year\Portfolio\JVBTimeApp\Safety-Valves_Timesheet-Helper\obj\Debug\JVBTimeApp.pdb

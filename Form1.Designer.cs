@@ -129,6 +129,7 @@
             this.cbxFriday.TabIndex = 90;
             this.cbxFriday.Text = "Friday";
             this.cbxFriday.UseVisualStyleBackColor = true;
+            this.cbxFriday.CheckedChanged += new System.EventHandler(this.cbxFriday_CheckedChanged);
             // 
             // btnClear
             // 
